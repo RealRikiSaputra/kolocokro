@@ -7,7 +7,8 @@ Public Class FormCSV
 
     Public Sub New()
         InitializeComponent()
-        LoadAvailableFiles()
+        LoadAvailableFiles() 'Contoh 
+        
         'LoadData()
     End Sub
 
